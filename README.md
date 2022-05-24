@@ -1,2 +1,2 @@
 # What Makes a Song a Hit?
-Created a dataset of songs using the Spotify API and using linear regression on this dataset, determine whether or not a given song will be popular.
+Artists are constantly putting out new songs, trying to delevop the next big hit that will blwo up and top the charts. What if we could help artists predict whether their newly-released songs will be a hit? We propose a solution using Spotify's API and the audio features to indicate a song's popularity index. We will show the accuracy of different models such as Linear Regression, Logistic Regression and K-Nearest Neighbors. We will also show why Logistic Regresion is the best. 
